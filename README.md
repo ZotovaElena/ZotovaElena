@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZotovaElena
+- 👋 Hi, I’m Elena
 - 👀 I’m interested in natural language processing
 - 🌱 I’m currently a PhD student in the Univsersity of Basque Country
 - 📫 You can reach me through my LinkedIn profile https://www.linkedin.com/in/elena-zotova-03825183/
